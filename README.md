@@ -1,4 +1,4 @@
 # homewoks
 ## Хозяин _Света Чаус_ 
-*[почта](sichaus@edu.hse.ru)
-*[Telegram](Chaus)
+*[почта](mailto:mn.sichaus@edu.hse.ru)
+*[Telegram](https://t.me/SvetaChaus)
